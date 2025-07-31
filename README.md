@@ -12,4 +12,4 @@ A 2-page web app to add income/expenses and view financial summary.
 
 ## How to Run
 1. Download the project folder
-2. Open `index.html` in your browser
+2. Open `home.html` in your browser
